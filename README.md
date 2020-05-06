@@ -1,2 +1,2 @@
 # randlistpick.py
-generates a random pick from and array simple GUI
+generates a random pick from a array, simple GUI
